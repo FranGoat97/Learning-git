@@ -1,3 +1,3 @@
-# Learning-git
+# learning-git
 GA
 ##Generic
